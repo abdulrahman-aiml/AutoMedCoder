@@ -11,7 +11,7 @@ import sys
 api_key = st.secrets.get("GeminiApiKey", os.getenv("GeminiApiKey"))
 
 def extract_terms(file_path):
-    model = "gemini-2.5-flash"
+    model = "gemini-1.5-flash"
     text = texter(file_path)
     mte = MedicalTermsExtraction(api_key, model, text)
 
