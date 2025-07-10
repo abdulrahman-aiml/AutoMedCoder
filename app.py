@@ -8,9 +8,9 @@ import sys
 # Set your API key securely in .streamlit/secrets.toml or via environment variable
 # api_key = st.secrets["GeminiApiKey"]  # or use st.secrets["GeminiApiKey"]
 # api_key = os.getenv('GeminiApiKey')
-api_key = st.secrets["GeiminiApiKey"]
 
 def extract_terms(file_path):
+    api_key = st.secrets["GeiminiApiKey"]
     model = "gemini-2.5-flash"
     text = texter(file_path)
     mte = MedicalTermsExtraction(api_key, model, text)
