@@ -1,0 +1,110 @@
+Here is a complex medical chart, incorporating multiple conditions, detailed history, and a more intricate hospital course, while ensuring no ICD, CPT, or modifier codes are mentioned.
+
+Patient Name: Eleanor Vance
+Age/Sex: 72 / Female
+Hospital Number: 98765432
+Admission Date: 2025-06-25
+Discharge Date: 2025-07-05
+Attending Physician: Dr. Evelyn Reed (Internal Medicine), Dr. Marcus Chen (Cardiology)
+
+📋 Chief Complaint:
+Acute onset of severe shortness of breath and productive cough with pink, frothy sputum, worsening over 24 hours, accompanied by bilateral lower extremity edema and generalized fatigue.
+
+🩺 History of Present Illness:
+Ms. Eleanor Vance is a 72-year-old female with a known history of Congestive Heart Failure (CHF) with reduced ejection fraction (EF 30%, last echo 3 months prior), Hypertension, Chronic Kidney Disease (CKD) Stage 3a, and well-controlled Type 2 Diabetes Mellitus. She presented to the emergency department with progressive dyspnea at rest, orthopnea requiring 3 pillows, and paroxysmal nocturnal dyspnea for the past 2 nights. She reports a productive cough with pink, frothy sputum and a 5-pound weight gain over the last week. She denies chest pain, fever, or chills. Home medications include Furosemide 40mg daily, Lisinopril 10mg daily, Metformin 500mg BID, and Aspirin 81mg daily, all reportedly taken as prescribed.
+
+Past Medical History:
+* Congestive Heart Failure (diagnosed 5 years ago, ischemic cardiomyopathy)
+* Hypertension (diagnosed 15 years ago)
+* Type 2 Diabetes Mellitus (diagnosed 10 years ago)
+* Chronic Kidney Disease Stage 3a (diagnosed 2 years ago)
+* Atrial Fibrillation (paroxysmal, on no anticoagulation due to prior GI bleed)
+* Cholecystectomy (1998)
+
+Social History:
+Former smoker (quit 15 years ago, 30 pack-years). Occasional alcohol use. Lives alone in a two-story home. No illicit drug use.
+
+Family History:
+Father died of MI at 65. Mother with Type 2 Diabetes and Hypertension.
+
+Physical Examination:
+* **Vitals:** BP 160/95, HR 110 (irregularly irregular), RR 28, Temp 98.6°F, SpO2 88% on room air.
+* **General:** Appears acutely distressed, labored breathing.
+* **Cardiovascular:** S1, S2 audible. S3 gallop present. Jugular venous distention (JVD) to 10 cm. Irregularly irregular rhythm.
+* **Pulmonary:** Bilateral crackles extending to mid-lung fields, diminished breath sounds at bases. Mild wheezing bilaterally.
+* **Abdomen:** Soft, non-tender, non-distended. No hepatosplenomegaly.
+* **Extremities:** 3+ pitting edema bilateral lower extremities to mid-shin.
+
+🧪 Lab Results (Select, on admission):
+* CBC: WBC 10.2, Hgb 11.5, Plt 250
+* BMP: Na 130, K 5.2, Cl 95, CO2 22, BUN 45, Creatinine 2.1 (baseline 1.5)
+* Cardiac Enzymes: Troponin I <0.01 ng/mL
+* BNP: 1800 pg/mL
+* Arterial Blood Gas (on RA): pH 7.32, pCO2 55, pO2 60, HCO3 28
+* Urinalysis: Trace protein, no casts
+
+Imaging:
+* **Chest X-ray:** Bilateral interstitial infiltrates, cardiomegaly, pleural effusions (moderate right, small left).
+* **Echocardiogram (repeat):** LVEF 25%, global hypokinesis, moderate mitral regurgitation, severe pulmonary hypertension.
+
+🧾 Diagnosis at Discharge:
+1.  Acute Decompensated Heart Failure (ADHF) with pulmonary edema, exacerbation of chronic systolic heart failure
+2.  Acute on Chronic Kidney Injury (AKI on CKD Stage 3a), likely prerenal due to dehydration/diuretic effect
+3.  Respiratory Acidosis, compensated
+4.  Exacerbation of Atrial Fibrillation with Rapid Ventricular Response (RVR)
+5.  Hypertension, uncontrolled
+6.  Type 2 Diabetes Mellitus, stable
+7.  Anemia of Chronic Disease
+
+🔧 Procedures Performed:
+1.  Initiation of BiPAP ventilation
+2.  Central venous catheter insertion (right internal jugular)
+3.  Intravenous diuresis with continuous Furosemide infusion
+4.  Cardiac rhythm monitoring (continuous)
+5.  Electrolyte repletion (potassium, magnesium)
+6.  Aggressive fluid restriction implementation
+7.  Nutritional consultation and dietary modification for heart failure and CKD
+8.  Physical therapy evaluation for mobility and deconditioning
+
+💉 Modifiers Context (Implied):
+* Critical care services provided
+* Multiple system involvement (cardiac, renal, respiratory)
+* Complex medical decision making
+* Patient deconditioned and requiring significant assistance
+* Consultations from multiple specialties
+
+🏨 Hospital Course:
+Patient admitted to ICU due to severe respiratory distress and hypoxemia. BiPAP initiated, leading to gradual improvement in oxygenation and reduction in work of breathing. Continuous Furosemide infusion started, resulting in significant diuresis (total 8L negative fluid balance). Creatinine peaked at 2.5 on hospital day 3, then trended down to 1.8 by discharge with careful fluid management. Atrial fibrillation with RVR was managed with IV Diltiazem, bringing heart rate to goal. Lisinopril held initially due to AKI, restarted at lower dose (5mg daily) upon renal improvement. Nutritional consult provided education on low-sodium, low-fluid, and diabetic diet. Patient ambulated with physical therapy assistance. Discharged to skilled nursing facility for continued rehabilitation and medical management.
+
+💊 Medications on Discharge:
+* Furosemide 80 mg PO BID
+* Lisinopril 5 mg PO daily
+* Metformin 500 mg PO BID
+* Aspirin 81 mg PO daily
+* Carvedilol 3.125 mg PO BID (newly initiated, titrated slowly)
+* Warfarin 2.5 mg PO daily (newly initiated, with INR monitoring plan)
+* Omeprazole 20 mg PO daily
+* Potassium Chloride 20 mEq PO daily
+
+📆 Follow-up:
+* Cardiology clinic in 7 days (for CHF and AF management)
+* Nephrology clinic in 2 weeks (for CKD and AKI follow-up)
+* Primary Care Physician (PCP) in 3 weeks
+* Skilled Nursing Facility (SNF) daily monitoring and rehabilitation
+* Home health nursing for medication reconciliation and vital sign monitoring for 2 weeks
+* Repeat Echocardiogram in 3 months
+
+
+
+
+
+
+
+
+
+
+
+Deep Research
+
+Canvas
+
