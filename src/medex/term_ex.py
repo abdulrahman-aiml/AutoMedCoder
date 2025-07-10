@@ -1,10 +1,10 @@
 import os 
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.prompts import ChatPromptTemplate
 import warnings
 warnings.filterwarnings('ignore')
-load_dotenv()
+# load_dotenv()
 
 
 class MedicalTermsExtraction:
