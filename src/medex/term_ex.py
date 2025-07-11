@@ -89,61 +89,61 @@ class MedicalTermsExtraction:
                 print(chunk.content, end= '', flush= True)
 
             
-if __name__ == "__main__":
-    api_key = os.getenv('GeminiApiKey')
-    model = "gemini-2.5-pro"
-    text = '''
-Patient Name: Sarah Thompson
-Age/Sex: 58 / Female
-Hospital Number: 90671245
-Admission Date: 2025-06-15
-Discharge Date: 2025-06-20
-Attending Physician: Dr. Kevin Rao
+# if __name__ == "__main__":
+#     api_key = os.getenv('GeminiApiKey')
+#     model = "gemini-2.5-pro"
+#     text = '''
+# Patient Name: Sarah Thompson
+# Age/Sex: 58 / Female
+# Hospital Number: 90671245
+# Admission Date: 2025-06-15
+# Discharge Date: 2025-06-20
+# Attending Physician: Dr. Kevin Rao
 
-📋 Chief Complaint:
-Pain and inability to move the right shoulder following a fall on an outstretched hand.
+# 📋 Chief Complaint:
+# Pain and inability to move the right shoulder following a fall on an outstretched hand.
 
-🩺 History of Present Illness:
-Mrs. Sarah Thompson slipped at home and fell on her right arm while trying to prevent a fall. She presented with acute right shoulder pain, swelling, and reduced range of motion. X-ray and MRI revealed a complete tear of the supraspinatus tendon and right shoulder joint effusion.
+# 🩺 History of Present Illness:
+# Mrs. Sarah Thompson slipped at home and fell on her right arm while trying to prevent a fall. She presented with acute right shoulder pain, swelling, and reduced range of motion. X-ray and MRI revealed a complete tear of the supraspinatus tendon and right shoulder joint effusion.
 
-🧾 Diagnosis at Discharge:
-Full-thickness rotator cuff tear, right supraspinatus tendon
+# 🧾 Diagnosis at Discharge:
+# Full-thickness rotator cuff tear, right supraspinatus tendon
 
-Right shoulder joint effusion
+# Right shoulder joint effusion
 
-Traumatic injury to the shoulder due to fall
+# Traumatic injury to the shoulder due to fall
 
-🔧 Procedures Performed:
-Arthroscopic rotator cuff repair of the right shoulder
+# 🔧 Procedures Performed:
+# Arthroscopic rotator cuff repair of the right shoulder
 
-Subacromial decompression
+# Subacromial decompression
 
-Synovectomy of the glenohumeral joint
+# Synovectomy of the glenohumeral joint
 
-💉 Modifiers Context (Implied):
-Procedure on right side
+# 💉 Modifiers Context (Implied):
+# Procedure on right side
 
-Involvement of assistant surgeon
+# Involvement of assistant surgeon
 
-Increased complexity due to joint effusion and degenerative changes
+# Increased complexity due to joint effusion and degenerative changes
 
-🏨 Hospital Course:
-Patient underwent arthroscopic repair under general anesthesia. The procedure was completed successfully with no complications. Post-operative period was stable. Passive physiotherapy started on day 2 post-op.
+# 🏨 Hospital Course:
+# Patient underwent arthroscopic repair under general anesthesia. The procedure was completed successfully with no complications. Post-operative period was stable. Passive physiotherapy started on day 2 post-op.
 
-💊 Medications on Discharge:
-Paracetamol 650 mg as needed
+# 💊 Medications on Discharge:
+# Paracetamol 650 mg as needed
 
-Cefuroxime 500 mg twice daily for 5 days
+# Cefuroxime 500 mg twice daily for 5 days
 
-Omeprazole 20 mg once daily
+# Omeprazole 20 mg once daily
 
-📆 Follow-up:
-Orthopedic review in 7 days
+# 📆 Follow-up:
+# Orthopedic review in 7 days
 
-Physical therapy sessions for 6 weeks
+# Physical therapy sessions for 6 weeks
 
-MRI follow-up if no improvement in 4 weeks'''
-    mte = MedicalTermsExtraction(api_key, model, text)
-    mte.dextraction()
-    mte.pextraction()
-    mte.mextraction()
+# MRI follow-up if no improvement in 4 weeks'''
+#     mte = MedicalTermsExtraction(api_key, model, text)
+#     mte.dextraction()
+#     mte.pextraction()
+#     mte.mextraction()
